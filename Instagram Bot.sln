@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Instagram Bot", "Instagram Bot.pyproj", "{1195F2A7-DEE0-4F59-BC9D-9179F637DCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1195F2A7-DEE0-4F59-BC9D-9179F637DCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1195F2A7-DEE0-4F59-BC9D-9179F637DCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A46BEA-9180-4EA0-AC57-9D8A811ECB08}
+	EndGlobalSection
+EndGlobal
